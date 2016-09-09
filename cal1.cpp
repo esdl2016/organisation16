@@ -1,11 +1,12 @@
 #include<iostream.h>
 int main()
 {
-  int add()
+ cout<<"\nCALCI"; 
+getch();
+int add()
   {
     int p,q;
     return p+q;
   }
-getch();
 return(0);
 }
