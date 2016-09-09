@@ -3,7 +3,8 @@ int main()
 {
  cout<<"\nCALCI"; 
 getch();
-cout<<"hello.";
+cout<<"hello";
+cout<<"ADD function";
 int add()
   {
     int p,q;
